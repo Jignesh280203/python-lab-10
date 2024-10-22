@@ -13,3 +13,9 @@ def division_OF_TWO_NUMBERS():
     finally:
         print("the whole code is executed")
 division_OF_TWO_NUMBERS()
+#output:-enter the value = 3
+enter the value = 5
+the division of 3 and 5 is 0.6
+the whole code is executed
+
+
